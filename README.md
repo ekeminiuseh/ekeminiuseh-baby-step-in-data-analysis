@@ -1,5 +1,5 @@
 # Project name ekeminiuseh-baby-step-in-data-analysis
-Global Covid-19 analysis from year 2020
+Global Covid-19 analysis from year 2020 to 2023
 -----------
 
 # Project objetive Project statement
